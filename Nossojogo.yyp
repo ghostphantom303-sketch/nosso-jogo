@@ -10,11 +10,8 @@
   },
   "defaultScriptType":0,
   "Folders":[
-<<<<<<< HEAD
     {"$GMFolder":"","%Name":"Sprites Do Jogo","folderPath":"folders/Sprites Do Jogo.yy","name":"Sprites Do Jogo","resourceType":"GMFolder","resourceVersion":"2.0",},
-=======
     {"$GMFolder":"","%Name":"Objects","folderPath":"folders/Objects.yy","name":"Objects","resourceType":"GMFolder","resourceVersion":"2.0",},
->>>>>>> 2e54f47d350c7ed804f4c2fa66f34338c7651847
   ],
   "ForcedPrefabProjectReferences":[],
   "IncludedFiles":[],
